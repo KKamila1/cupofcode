@@ -1,0 +1,6 @@
+@OfCode.Bootstrapper_HostAddress = http://localhost:5176
+
+GET {{OfCode.Bootstrapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
