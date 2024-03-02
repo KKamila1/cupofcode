@@ -1,6 +1,0 @@
-@OfCode_HostAddress = http://localhost:5290
-
-GET {{OfCode_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
